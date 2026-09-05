@@ -14,6 +14,7 @@ class Solution {
             arr[end] = tmp;
             st++;
             end--;
+            
         }
     }
 }
